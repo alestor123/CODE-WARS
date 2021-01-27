@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/INFOS/issues"
   },
-  "homepage": "https://github.com/alestor123/INFOS#readme"
+  "homepage": "https://github.com/alestor123/INFOS#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
